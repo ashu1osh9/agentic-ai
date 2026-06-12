@@ -31,3 +31,6 @@ pytube
 numexpr
 huggingface_hub
 arxiv==1.4.8
+
+
+langgraph
